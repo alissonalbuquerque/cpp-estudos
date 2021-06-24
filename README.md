@@ -1,2 +1,5 @@
-# cpp-estudos
-Repositório para anotações de aprendizado sobre a linguagem C++
+
+# Cpp Estudos
+
+Repositório para anotações de aprendizado sobre a linguagem C++.
+
