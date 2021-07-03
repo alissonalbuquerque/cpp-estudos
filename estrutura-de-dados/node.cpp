@@ -1,4 +1,6 @@
 
+#include <cstddef> // import pointer NULL
+
 template <class Generic>
 class Node {
 
